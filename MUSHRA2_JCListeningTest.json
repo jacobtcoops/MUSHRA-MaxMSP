@@ -130,7 +130,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 4154.5, 625.0, 44.0, 17.0 ],
+					"patching_rect" : [ 5209.5, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 8"
 				}
 
@@ -144,8 +144,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4195.5, 754.0, 183.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle-reference.wav"
+					"patching_rect" : [ 5250.5, 748.0, 250.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -158,8 +158,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4216.5, 775.0, 183.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle-reference.wav"
+					"patching_rect" : [ 5271.5, 769.0, 304.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -172,8 +172,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4175.5, 733.0, 183.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle-reference.wav"
+					"patching_rect" : [ 5230.5, 727.0, 245.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -186,8 +186,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4156.5, 712.0, 183.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle-reference.wav"
+					"patching_rect" : [ 5211.5, 706.0, 245.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -200,8 +200,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4135.5, 691.0, 183.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle-reference.wav"
+					"patching_rect" : [ 5190.5, 685.0, 260.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -214,8 +214,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4116.5, 670.0, 183.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle-reference.wav"
+					"patching_rect" : [ 5171.5, 664.0, 259.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -228,7 +228,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4100.5, 649.0, 183.0, 19.0 ],
+					"patching_rect" : [ 5155.5, 643.0, 183.0, 19.0 ],
 					"text" : "8_Tambourine_VerticalCircle-reference.wav"
 				}
 
@@ -241,7 +241,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 4100.5, 558.0, 15.0, 15.0 ]
+					"patching_rect" : [ 5155.5, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -253,7 +253,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 3991.5, 625.0, 44.0, 17.0 ],
+					"patching_rect" : [ 4880.5, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 7"
 				}
 
@@ -267,8 +267,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4032.5, 754.0, 168.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront-reference.wav"
+					"patching_rect" : [ 4921.5, 748.0, 235.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -281,8 +281,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4053.5, 775.0, 168.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront-reference.wav"
+					"patching_rect" : [ 4942.5, 769.0, 289.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -295,8 +295,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4012.5, 733.0, 168.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront-reference.wav"
+					"patching_rect" : [ 4901.5, 727.0, 230.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -309,8 +309,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3993.5, 712.0, 168.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront-reference.wav"
+					"patching_rect" : [ 4882.5, 706.0, 230.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -323,8 +323,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3972.5, 691.0, 168.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront-reference.wav"
+					"patching_rect" : [ 4861.5, 685.0, 245.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -337,8 +337,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3953.5, 670.0, 168.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront-reference.wav"
+					"patching_rect" : [ 4842.5, 664.0, 244.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -351,7 +351,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3937.5, 649.0, 168.0, 19.0 ],
+					"patching_rect" : [ 4826.5, 643.0, 168.0, 19.0 ],
 					"text" : "7_PinkNoise_CircleFront-reference.wav"
 				}
 
@@ -364,7 +364,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 3937.5, 558.0, 15.0, 15.0 ]
+					"patching_rect" : [ 4826.5, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -376,7 +376,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 3825.5, 622.0, 44.0, 17.0 ],
+					"patching_rect" : [ 4528.5, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 6"
 				}
 
@@ -390,8 +390,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3866.5, 751.0, 167.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation-reference.wav"
+					"patching_rect" : [ 4569.5, 748.0, 234.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -404,8 +404,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3887.5, 772.0, 167.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation-reference.wav"
+					"patching_rect" : [ 4590.5, 769.0, 288.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -418,8 +418,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3846.5, 730.0, 167.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation-reference.wav"
+					"patching_rect" : [ 4549.5, 727.0, 229.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -432,8 +432,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3827.5, 709.0, 167.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation-reference.wav"
+					"patching_rect" : [ 4530.5, 706.0, 229.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -446,8 +446,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3806.5, 688.0, 167.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation-reference.wav"
+					"patching_rect" : [ 4509.5, 685.0, 244.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -460,8 +460,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3787.5, 667.0, 167.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation-reference.wav"
+					"patching_rect" : [ 4490.5, 664.0, 244.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -474,7 +474,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3771.5, 646.0, 167.0, 19.0 ],
+					"patching_rect" : [ 4474.5, 643.0, 167.0, 19.0 ],
 					"text" : "6_Tambourine_Elevation-reference.wav"
 				}
 
@@ -487,7 +487,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 3771.5, 555.0, 15.0, 15.0 ]
+					"patching_rect" : [ 4474.5, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -499,7 +499,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 3665.5, 622.0, 44.0, 17.0 ],
+					"patching_rect" : [ 4223.5, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 5"
 				}
 
@@ -513,8 +513,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3706.5, 751.0, 139.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 4264.5, 748.0, 206.0, 19.0 ],
+					"text" : "5_RhythmSection_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -527,7 +527,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3727.5, 772.0, 139.0, 19.0 ],
+					"patching_rect" : [ 4285.5, 769.0, 139.0, 19.0 ],
 					"text" : "5_RhythmSection-reference.wav"
 				}
 
@@ -541,8 +541,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3686.5, 730.0, 139.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 4244.5, 727.0, 201.0, 19.0 ],
+					"text" : "5_RhythmSection_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -555,8 +555,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3667.5, 709.0, 139.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 4225.5, 706.0, 201.0, 19.0 ],
+					"text" : "5_RhythmSection_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -569,8 +569,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3646.5, 688.0, 139.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 4204.5, 685.0, 216.0, 19.0 ],
+					"presentation_linecount" : 2,
+					"text" : "5_RhythmSection_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -583,8 +584,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3627.5, 667.0, 139.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 4185.5, 664.0, 216.0, 19.0 ],
+					"text" : "5_RhythmSection_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -597,7 +598,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3611.5, 646.0, 139.0, 19.0 ],
+					"patching_rect" : [ 4169.5, 643.0, 139.0, 19.0 ],
 					"text" : "5_RhythmSection-reference.wav"
 				}
 
@@ -610,7 +611,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 3611.5, 555.0, 15.0, 15.0 ]
+					"patching_rect" : [ 4169.5, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -622,7 +623,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 3499.5, 619.0, 44.0, 17.0 ],
+					"patching_rect" : [ 3920.5, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 4"
 				}
 
@@ -636,8 +637,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3540.5, 748.0, 105.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 3961.5, 748.0, 172.0, 19.0 ],
+					"text" : "4_Drums_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -650,8 +651,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3561.5, 769.0, 105.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 3982.5, 769.0, 226.0, 19.0 ],
+					"text" : "4_Drums_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -664,8 +665,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3520.5, 727.0, 105.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 3941.5, 727.0, 167.0, 19.0 ],
+					"text" : "4_Drums_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -678,8 +679,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3501.5, 706.0, 105.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 3922.5, 706.0, 167.0, 19.0 ],
+					"text" : "4_Drums_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -692,8 +693,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3480.5, 685.0, 105.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 3901.5, 685.0, 182.0, 19.0 ],
+					"text" : "4_Drums_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -706,8 +707,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3461.5, 664.0, 105.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 3882.5, 664.0, 181.0, 19.0 ],
+					"text" : "4_Drums_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -720,7 +721,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3445.5, 643.0, 105.0, 19.0 ],
+					"patching_rect" : [ 3866.5, 643.0, 105.0, 19.0 ],
 					"text" : "4_Drums-reference.wav"
 				}
 
@@ -733,7 +734,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 3445.5, 552.0, 15.0, 15.0 ]
+					"patching_rect" : [ 3866.5, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -3494,13 +3495,12 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-188",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2175.0, 551.0, 114.0, 29.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 2175.0, 551.0, 114.0, 19.0 ],
+					"text" : "4_Drums-reference.wav"
 				}
 
 			}
@@ -3750,7 +3750,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 3332.5, 619.0, 44.0, 17.0 ],
+					"patching_rect" : [ 3596.5, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 3"
 				}
 
@@ -3763,7 +3763,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 3162.0, 619.0, 44.0, 17.0 ],
+					"patching_rect" : [ 3305.0, 619.0, 44.0, 17.0 ],
 					"text" : "Bank 2"
 				}
 
@@ -3881,8 +3881,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3373.5, 748.0, 148.0, 19.0 ],
-					"text" : "3_Speech_ExtractB-reference.wav"
+					"patching_rect" : [ 3637.5, 748.0, 215.0, 19.0 ],
+					"text" : "3_Speech_ExtractB_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -3895,8 +3895,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3394.5, 769.0, 148.0, 19.0 ],
-					"text" : "3_Speech_ExtractB-reference.wav"
+					"patching_rect" : [ 3658.5, 769.0, 269.0, 19.0 ],
+					"text" : "3_Speech_ExtractB_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -3909,8 +3909,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3353.5, 727.0, 148.0, 19.0 ],
-					"text" : "3_Speech_ExtractB-reference.wav"
+					"patching_rect" : [ 3617.5, 727.0, 210.0, 19.0 ],
+					"text" : "3_Speech_ExtractB_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -3923,8 +3923,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3334.5, 706.0, 148.0, 19.0 ],
-					"text" : "3_Speech_ExtractB-reference.wav"
+					"patching_rect" : [ 3598.5, 706.0, 210.0, 19.0 ],
+					"text" : "3_Speech_ExtractB_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -3937,8 +3937,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3313.5, 685.0, 148.0, 19.0 ],
-					"text" : "3_Speech_ExtractB-reference.wav"
+					"patching_rect" : [ 3577.5, 685.0, 225.0, 19.0 ],
+					"text" : "3_Speech_ExtractB_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -3951,8 +3951,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3294.5, 664.0, 148.0, 19.0 ],
-					"text" : "3_Speech_ExtractB-reference.wav"
+					"patching_rect" : [ 3558.5, 664.0, 224.0, 19.0 ],
+					"text" : "3_Speech_ExtractB_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -3965,7 +3965,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3278.5, 643.0, 148.0, 19.0 ],
+					"patching_rect" : [ 3542.5, 643.0, 148.0, 19.0 ],
 					"text" : "3_Speech_ExtractB-reference.wav"
 				}
 
@@ -3979,8 +3979,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3207.0, 748.0, 148.0, 19.0 ],
-					"text" : "2_Speech_ExtractA-reference.wav"
+					"patching_rect" : [ 3350.0, 748.0, 215.0, 19.0 ],
+					"text" : "2_Speech_ExtractA_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -3993,8 +3993,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3228.0, 769.0, 148.0, 19.0 ],
-					"text" : "2_Speech_ExtractA-reference.wav"
+					"patching_rect" : [ 3371.0, 769.0, 269.0, 19.0 ],
+					"text" : "2_Speech_ExtractA_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -4007,8 +4007,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3187.0, 727.0, 148.0, 19.0 ],
-					"text" : "2_Speech_ExtractA-reference.wav"
+					"patching_rect" : [ 3330.0, 727.0, 210.0, 19.0 ],
+					"text" : "2_Speech_ExtractA_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -4021,8 +4021,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3168.0, 706.0, 148.0, 19.0 ],
-					"text" : "2_Speech_ExtractA-reference.wav"
+					"patching_rect" : [ 3311.0, 706.0, 210.0, 19.0 ],
+					"text" : "2_Speech_ExtractA_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -4035,8 +4035,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3147.0, 685.0, 148.0, 19.0 ],
-					"text" : "2_Speech_ExtractA-reference.wav"
+					"patching_rect" : [ 3290.0, 685.0, 225.0, 19.0 ],
+					"text" : "2_Speech_ExtractA_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -4049,8 +4049,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3128.0, 664.0, 148.0, 19.0 ],
-					"text" : "2_Speech_ExtractA-reference.wav"
+					"patching_rect" : [ 3271.0, 664.0, 224.0, 19.0 ],
+					"text" : "2_Speech_ExtractA_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -4063,7 +4063,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3112.0, 643.0, 148.0, 19.0 ],
+					"patching_rect" : [ 3255.0, 643.0, 148.0, 19.0 ],
 					"text" : "2_Speech_ExtractA-reference.wav"
 				}
 
@@ -4077,8 +4077,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3046.0, 748.0, 130.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 3046.0, 748.0, 197.0, 19.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -4091,8 +4091,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3067.0, 769.0, 130.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 3067.0, 769.0, 251.0, 19.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -4105,8 +4105,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3026.0, 727.0, 130.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 3026.0, 727.0, 192.0, 19.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -4119,8 +4119,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3007.0, 706.0, 130.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 3007.0, 706.0, 192.0, 19.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -4133,8 +4133,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2986.0, 685.0, 130.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 2986.0, 685.0, 207.0, 19.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -4147,8 +4147,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2967.0, 664.0, 130.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"patching_rect" : [ 2967.0, 664.0, 206.0, 19.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -4174,7 +4174,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 3278.5, 552.0, 15.0, 15.0 ]
+					"patching_rect" : [ 3542.5, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -4186,7 +4186,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 3112.0, 552.0, 15.0, 15.0 ]
+					"patching_rect" : [ 3255.0, 552.0, 15.0, 15.0 ]
 				}
 
 			}
@@ -5889,7 +5889,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1933.0, 936.0, 147.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"text" : "5_RhythmSection-reference.wav"
 				}
 
 			}
@@ -5903,7 +5903,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1899.0, 915.0, 137.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"text" : "4_Drums-reference.wav"
 				}
 
 			}
@@ -5917,7 +5917,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1865.0, 894.0, 155.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"text" : "4_Drums-reference.wav"
 				}
 
 			}
@@ -5931,7 +5931,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1831.0, 873.0, 135.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"text" : "4_Drums-reference.wav"
 				}
 
 			}
@@ -5945,7 +5945,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1797.0, 852.0, 148.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"text" : "4_Drums-reference.wav"
 				}
 
 			}
@@ -5959,7 +5959,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1763.0, 831.0, 137.0, 19.0 ],
-					"text" : "1_VirtualStereo-reference.wav"
+					"text" : "4_Drums-reference.wav"
 				}
 
 			}
@@ -7451,7 +7451,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 3550.0, 816.0, 3462.5, 816.0 ],
+					"midpoints" : [ 3971.0, 816.0, 3462.5, 816.0 ],
 					"source" : [ "obj-122", 0 ]
 				}
 
@@ -7537,7 +7537,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 3571.0, 826.5, 3528.5, 826.5 ],
+					"midpoints" : [ 3992.0, 826.5, 3528.5, 826.5 ],
 					"source" : [ "obj-141", 0 ]
 				}
 
@@ -7559,7 +7559,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 3530.0, 826.5, 3396.5, 826.5 ],
+					"midpoints" : [ 3951.0, 826.5, 3396.5, 826.5 ],
 					"source" : [ "obj-144", 0 ]
 				}
 
@@ -7567,7 +7567,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 3511.0, 826.0, 3330.5, 826.0 ],
+					"midpoints" : [ 3932.0, 826.0, 3330.5, 826.0 ],
 					"source" : [ "obj-145", 0 ]
 				}
 
@@ -7575,7 +7575,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 3490.0, 826.5, 3264.5, 826.5 ],
+					"midpoints" : [ 3911.0, 826.5, 3264.5, 826.5 ],
 					"source" : [ "obj-146", 0 ]
 				}
 
@@ -7583,7 +7583,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 3471.0, 826.0, 3198.5, 826.0 ],
+					"midpoints" : [ 3892.0, 826.0, 3198.5, 826.0 ],
 					"source" : [ "obj-147", 0 ]
 				}
 
@@ -7591,7 +7591,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 3455.0, 826.5, 3367.5, 826.5 ],
+					"midpoints" : [ 3876.0, 826.5, 3367.5, 826.5 ],
 					"source" : [ "obj-148", 0 ]
 				}
 
@@ -7655,7 +7655,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-227", 0 ],
-					"midpoints" : [ 3454.5, 596.0, 2856.5, 596.0 ],
+					"midpoints" : [ 3875.5, 596.0, 2856.5, 596.0 ],
 					"order" : 7,
 					"source" : [ "obj-149", 0 ]
 				}
@@ -7728,7 +7728,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 3716.0, 826.5, 3462.5, 826.5 ],
+					"midpoints" : [ 4274.0, 826.5, 3462.5, 826.5 ],
 					"source" : [ "obj-167", 0 ]
 				}
 
@@ -7736,7 +7736,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 3737.0, 828.0, 3528.5, 828.0 ],
+					"midpoints" : [ 4295.0, 828.0, 3528.5, 828.0 ],
 					"source" : [ "obj-168", 0 ]
 				}
 
@@ -7744,7 +7744,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 3696.0, 827.0, 3396.5, 827.0 ],
+					"midpoints" : [ 4254.0, 827.0, 3396.5, 827.0 ],
 					"source" : [ "obj-169", 0 ]
 				}
 
@@ -7759,7 +7759,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 3677.0, 825.5, 3330.5, 825.5 ],
+					"midpoints" : [ 4235.0, 825.5, 3330.5, 825.5 ],
 					"source" : [ "obj-170", 0 ]
 				}
 
@@ -7767,7 +7767,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 3656.0, 826.0, 3264.5, 826.0 ],
+					"midpoints" : [ 4214.0, 826.0, 3264.5, 826.0 ],
 					"source" : [ "obj-171", 0 ]
 				}
 
@@ -7775,7 +7775,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 3637.0, 827.5, 3198.5, 827.5 ],
+					"midpoints" : [ 4195.0, 827.5, 3198.5, 827.5 ],
 					"source" : [ "obj-172", 0 ]
 				}
 
@@ -7783,7 +7783,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 3621.0, 825.0, 3367.5, 825.0 ],
+					"midpoints" : [ 4179.0, 825.0, 3367.5, 825.0 ],
 					"source" : [ "obj-173", 0 ]
 				}
 
@@ -7847,7 +7847,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-227", 0 ],
-					"midpoints" : [ 3620.5, 597.5, 2856.5, 597.5 ],
+					"midpoints" : [ 4178.5, 597.5, 2856.5, 597.5 ],
 					"order" : 7,
 					"source" : [ "obj-174", 0 ]
 				}
@@ -7964,7 +7964,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 4042.0, 829.0, 3462.5, 829.0 ],
+					"midpoints" : [ 4931.0, 829.0, 3462.5, 829.0 ],
 					"source" : [ "obj-209", 0 ]
 				}
 
@@ -7979,7 +7979,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 4063.0, 829.5, 3528.5, 829.5 ],
+					"midpoints" : [ 4952.0, 829.5, 3528.5, 829.5 ],
 					"source" : [ "obj-210", 0 ]
 				}
 
@@ -7987,7 +7987,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 4022.0, 829.5, 3396.5, 829.5 ],
+					"midpoints" : [ 4911.0, 829.5, 3396.5, 829.5 ],
 					"source" : [ "obj-211", 0 ]
 				}
 
@@ -7995,7 +7995,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 4003.0, 829.0, 3330.5, 829.0 ],
+					"midpoints" : [ 4892.0, 829.0, 3330.5, 829.0 ],
 					"source" : [ "obj-212", 0 ]
 				}
 
@@ -8003,7 +8003,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 3982.0, 827.5, 3264.5, 827.5 ],
+					"midpoints" : [ 4871.0, 827.5, 3264.5, 827.5 ],
 					"source" : [ "obj-213", 0 ]
 				}
 
@@ -8011,7 +8011,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 3963.0, 827.0, 3198.5, 827.0 ],
+					"midpoints" : [ 4852.0, 827.0, 3198.5, 827.0 ],
 					"source" : [ "obj-214", 0 ]
 				}
 
@@ -8019,7 +8019,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 3947.0, 898.5, 3367.5, 898.5 ],
+					"midpoints" : [ 4836.0, 898.5, 3367.5, 898.5 ],
 					"source" : [ "obj-215", 0 ]
 				}
 
@@ -8163,7 +8163,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 3876.0, 828.5, 3462.5, 828.5 ],
+					"midpoints" : [ 4579.0, 828.5, 3462.5, 828.5 ],
 					"source" : [ "obj-228", 0 ]
 				}
 
@@ -8188,7 +8188,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 3383.0, 826.0, 3462.5, 826.0 ],
+					"midpoints" : [ 3647.0, 826.0, 3462.5, 826.0 ],
 					"source" : [ "obj-236", 0 ]
 				}
 
@@ -8196,7 +8196,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 3404.0, 826.5, 3528.5, 826.5 ],
+					"midpoints" : [ 3668.0, 826.5, 3528.5, 826.5 ],
 					"source" : [ "obj-237", 0 ]
 				}
 
@@ -8204,7 +8204,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 3363.0, 825.5, 3396.5, 825.5 ],
+					"midpoints" : [ 3627.0, 825.5, 3396.5, 825.5 ],
 					"source" : [ "obj-238", 0 ]
 				}
 
@@ -8212,7 +8212,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 3344.0, 826.0, 3330.5, 826.0 ],
+					"midpoints" : [ 3608.0, 826.0, 3330.5, 826.0 ],
 					"source" : [ "obj-239", 0 ]
 				}
 
@@ -8227,7 +8227,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 3323.0, 826.5, 3264.5, 826.5 ],
+					"midpoints" : [ 3587.0, 826.5, 3264.5, 826.5 ],
 					"source" : [ "obj-240", 0 ]
 				}
 
@@ -8235,7 +8235,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 3304.0, 826.0, 3198.5, 826.0 ],
+					"midpoints" : [ 3568.0, 826.0, 3198.5, 826.0 ],
 					"source" : [ "obj-241", 0 ]
 				}
 
@@ -8243,7 +8243,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 3288.0, 782.5, 3367.5, 782.5 ],
+					"midpoints" : [ 3552.0, 782.5, 3367.5, 782.5 ],
 					"source" : [ "obj-242", 0 ]
 				}
 
@@ -8251,7 +8251,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 3216.5, 825.0, 3462.5, 825.0 ],
+					"midpoints" : [ 3359.5, 825.0, 3462.5, 825.0 ],
 					"source" : [ "obj-243", 0 ]
 				}
 
@@ -8259,7 +8259,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 3237.5, 826.5, 3528.5, 826.5 ],
+					"midpoints" : [ 3380.5, 826.5, 3528.5, 826.5 ],
 					"source" : [ "obj-244", 0 ]
 				}
 
@@ -8267,7 +8267,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 3196.5, 826.5, 3396.5, 826.5 ],
+					"midpoints" : [ 3339.5, 826.5, 3396.5, 826.5 ],
 					"source" : [ "obj-245", 0 ]
 				}
 
@@ -8275,7 +8275,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 3177.5, 826.0, 3330.5, 826.0 ],
+					"midpoints" : [ 3320.5, 826.0, 3330.5, 826.0 ],
 					"source" : [ "obj-246", 0 ]
 				}
 
@@ -8283,7 +8283,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 3156.5, 825.5, 3264.5, 825.5 ],
+					"midpoints" : [ 3299.5, 825.5, 3264.5, 825.5 ],
 					"source" : [ "obj-247", 0 ]
 				}
 
@@ -8291,7 +8291,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 3137.5, 827.0, 3198.5, 827.0 ],
+					"midpoints" : [ 3280.5, 827.0, 3198.5, 827.0 ],
 					"source" : [ "obj-248", 0 ]
 				}
 
@@ -8299,7 +8299,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 3121.5, 825.5, 3367.5, 825.5 ],
+					"midpoints" : [ 3264.5, 825.5, 3367.5, 825.5 ],
 					"source" : [ "obj-249", 0 ]
 				}
 
@@ -8370,7 +8370,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-227", 0 ],
-					"midpoints" : [ 3287.5, 596.0, 2856.5, 596.0 ],
+					"midpoints" : [ 3551.5, 596.0, 2856.5, 596.0 ],
 					"order" : 7,
 					"source" : [ "obj-257", 0 ]
 				}
@@ -8435,7 +8435,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-227", 0 ],
-					"midpoints" : [ 3121.0, 596.0, 2856.5, 596.0 ],
+					"midpoints" : [ 3264.0, 596.0, 2856.5, 596.0 ],
 					"order" : 7,
 					"source" : [ "obj-258", 0 ]
 				}
@@ -8700,7 +8700,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 3897.0, 828.0, 3528.5, 828.0 ],
+					"midpoints" : [ 4600.0, 828.0, 3528.5, 828.0 ],
 					"source" : [ "obj-268", 0 ]
 				}
 
@@ -8826,7 +8826,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 3856.0, 829.0, 3396.5, 829.0 ],
+					"midpoints" : [ 4559.0, 829.0, 3396.5, 829.0 ],
 					"source" : [ "obj-292", 0 ]
 				}
 
@@ -8834,7 +8834,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 3837.0, 829.5, 3330.5, 829.5 ],
+					"midpoints" : [ 4540.0, 829.5, 3330.5, 829.5 ],
 					"source" : [ "obj-293", 0 ]
 				}
 
@@ -8849,7 +8849,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 3816.0, 829.0, 3264.5, 829.0 ],
+					"midpoints" : [ 4519.0, 829.0, 3264.5, 829.0 ],
 					"source" : [ "obj-295", 0 ]
 				}
 
@@ -8857,7 +8857,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 3797.0, 829.5, 3198.5, 829.5 ],
+					"midpoints" : [ 4500.0, 829.5, 3198.5, 829.5 ],
 					"source" : [ "obj-296", 0 ]
 				}
 
@@ -8865,7 +8865,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 3781.0, 898.0, 3367.5, 898.0 ],
+					"midpoints" : [ 4484.0, 898.0, 3367.5, 898.0 ],
 					"source" : [ "obj-297", 0 ]
 				}
 
@@ -8937,7 +8937,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-230", 0 ],
-					"midpoints" : [ 4205.0, 831.0, 3462.5, 831.0 ],
+					"midpoints" : [ 5260.0, 831.0, 3462.5, 831.0 ],
 					"source" : [ "obj-309", 0 ]
 				}
 
@@ -8960,7 +8960,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-229", 0 ],
-					"midpoints" : [ 4226.0, 829.5, 3528.5, 829.5 ],
+					"midpoints" : [ 5281.0, 829.5, 3528.5, 829.5 ],
 					"source" : [ "obj-310", 0 ]
 				}
 
@@ -8968,7 +8968,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-231", 0 ],
-					"midpoints" : [ 4185.0, 830.5, 3396.5, 830.5 ],
+					"midpoints" : [ 5240.0, 830.5, 3396.5, 830.5 ],
 					"source" : [ "obj-311", 0 ]
 				}
 
@@ -8976,7 +8976,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-232", 0 ],
-					"midpoints" : [ 4166.0, 831.0, 3330.5, 831.0 ],
+					"midpoints" : [ 5221.0, 831.0, 3330.5, 831.0 ],
 					"source" : [ "obj-312", 0 ]
 				}
 
@@ -8984,7 +8984,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-233", 0 ],
-					"midpoints" : [ 4145.0, 829.5, 3264.5, 829.5 ],
+					"midpoints" : [ 5200.0, 829.5, 3264.5, 829.5 ],
 					"source" : [ "obj-313", 0 ]
 				}
 
@@ -8992,7 +8992,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-234", 0 ],
-					"midpoints" : [ 4126.0, 831.0, 3198.5, 831.0 ],
+					"midpoints" : [ 5181.0, 831.0, 3198.5, 831.0 ],
 					"source" : [ "obj-314", 0 ]
 				}
 
@@ -9000,7 +9000,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-235", 0 ],
-					"midpoints" : [ 4110.0, 899.5, 3367.5, 899.5 ],
+					"midpoints" : [ 5165.0, 899.5, 3367.5, 899.5 ],
 					"source" : [ "obj-315", 0 ]
 				}
 
