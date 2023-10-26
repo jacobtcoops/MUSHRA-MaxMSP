@@ -527,8 +527,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4285.5, 769.0, 139.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 4285.5, 769.0, 260.0, 19.0 ],
+					"text" : "5_RhythmSection_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -570,7 +570,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 4204.5, 685.0, 216.0, 19.0 ],
-					"presentation_linecount" : 2,
 					"text" : "5_RhythmSection_7OA_sadie2_kemar_MagLS.wav"
 				}
 
@@ -3495,12 +3494,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-188",
+					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 2175.0, 551.0, 114.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 2175.0, 551.0, 114.0, 40.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -5884,12 +5884,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-595",
+					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1933.0, 936.0, 147.0, 19.0 ],
-					"text" : "5_RhythmSection-reference.wav"
+					"patching_rect" : [ 1933.0, 936.0, 147.0, 40.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -5898,12 +5899,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-597",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1899.0, 915.0, 137.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 1899.0, 915.0, 137.0, 29.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -5912,12 +5914,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-598",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1865.0, 894.0, 155.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 1865.0, 894.0, 155.0, 29.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -5926,12 +5929,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-599",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1831.0, 873.0, 135.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 1831.0, 873.0, 135.0, 29.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -5940,12 +5944,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-600",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1797.0, 852.0, 148.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 1797.0, 852.0, 148.0, 29.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -5954,12 +5959,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-601",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1763.0, 831.0, 137.0, 19.0 ],
-					"text" : "4_Drums-reference.wav"
+					"patching_rect" : [ 1763.0, 831.0, 137.0, 29.0 ],
+					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -6076,7 +6082,7 @@
 					"patching_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
-					"text" : "Page 1 of 8",
+					"text" : "Page 3 of 8",
 					"varname" : "PageDisplay"
 				}
 
