@@ -3500,7 +3500,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2175.0, 551.0, 114.0, 40.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -5884,13 +5884,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 9.0,
 					"id" : "obj-595",
-					"linecount" : 3,
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1933.0, 936.0, 147.0, 40.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 1933.0, 936.0, 147.0, 29.0 ],
+					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
 				}
 
 			}
@@ -5905,7 +5905,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1899.0, 915.0, 137.0, 29.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h13_MagLS.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_h13_MagLS.wav"
 				}
 
 			}
@@ -5920,7 +5920,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1865.0, 894.0, 155.0, 29.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h6_MagLS.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_h6_MagLS.wav"
 				}
 
 			}
@@ -5935,7 +5935,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1831.0, 873.0, 135.0, 29.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_h4_MagLS.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_h4_MagLS.wav"
 				}
 
 			}
@@ -5950,7 +5950,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1797.0, 852.0, 148.0, 29.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_kemar_MagLS.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -5965,7 +5965,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1763.0, 831.0, 137.0, 29.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -6082,7 +6082,7 @@
 					"patching_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
-					"text" : "Page 3 of 8",
+					"text" : "Page 1 of 8",
 					"varname" : "PageDisplay"
 				}
 
@@ -6738,13 +6738,14 @@
 					"fontname" : "Arial",
 					"fontsize" : 24.0,
 					"id" : "obj-746",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 99.0, 73.0, 1031.0, 34.0 ],
+					"patching_rect" : [ 99.0, 73.0, 1031.0, 62.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 99.0, 73.0, 1031.0, 34.0 ],
-					"text" : "Please rate the Basic Audio Quality of the following excerpts using the scales provided..."
+					"presentation_rect" : [ 99.0, 73.0, 1127.0, 34.0 ],
+					"text" : "Please rate the Overall Listening Experience (OLE) of the following excerpts using the scales provided..."
 				}
 
 			}
