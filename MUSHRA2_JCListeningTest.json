@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1954.0, 85.0, 1461.0, 921.0 ],
+		"rect" : [ 1954.0, 85.0, 1852.0, 921.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 9.0,
@@ -2340,6 +2340,7 @@
 			}
 , 			{
 				"box" : 				{
+					"hidden" : 1,
 					"id" : "obj-331",
 					"imagemask" : 1,
 					"maxclass" : "pictctrl",
@@ -3583,7 +3584,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2175.0, 551.0, 114.0, 40.0 ],
-					"text" : "6_Tambourine_Elevation_7OA_sadie2_ku100_MagLS.wav"
+					"text" : "6_Tambourine_Elevation_7OA_sadie2_kemar_MagLS.wav"
 				}
 
 			}
@@ -6165,7 +6166,7 @@
 					"patching_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
-					"text" : "Page 2 of 8",
+					"text" : "Page 1 of 8",
 					"varname" : "PageDisplay"
 				}
 
