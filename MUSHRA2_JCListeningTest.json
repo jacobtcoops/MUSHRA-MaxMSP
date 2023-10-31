@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1954.0, 85.0, 1852.0, 921.0 ],
+		"rect" : [ 1962.0, 85.0, 1852.0, 921.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 9.0,
@@ -146,8 +146,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 5271.5, 769.0, 304.0, 19.0 ],
-					"text" : "8_Tambourine_VerticalCircle_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 5271.5, 769.0, 186.0, 19.0 ],
+					"text" : "8_Tambourine_VerticalCircle-lowAnchor.wav"
 				}
 
 			}
@@ -269,8 +269,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4942.5, 769.0, 289.0, 19.0 ],
-					"text" : "7_PinkNoise_CircleFront_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 4942.5, 769.0, 171.0, 19.0 ],
+					"text" : "7_PinkNoise_CircleFront-lowAnchor.wav"
 				}
 
 			}
@@ -392,8 +392,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4590.5, 769.0, 288.0, 19.0 ],
-					"text" : "6_Tambourine_Elevation_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 4590.5, 769.0, 171.0, 19.0 ],
+					"text" : "6_Tambourine_Elevation-lowAnchor.wav"
 				}
 
 			}
@@ -515,8 +515,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 4285.5, 769.0, 260.0, 19.0 ],
-					"text" : "5_RhythmSection_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 4285.5, 769.0, 143.0, 19.0 ],
+					"text" : "5_RhythmSection-lowAnchor.wav"
 				}
 
 			}
@@ -638,8 +638,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3982.5, 769.0, 226.0, 19.0 ],
-					"text" : "4_Drums_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 3982.5, 769.0, 108.0, 19.0 ],
+					"text" : "4_Drums-lowAnchor.wav"
 				}
 
 			}
@@ -3488,7 +3488,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2175.0, 551.0, 114.0, 29.0 ],
-					"text" : "1_VirtualStereo_7OA_sadie2_h13_MagLS.wav"
+					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS.wav"
 				}
 
 			}
@@ -3883,8 +3883,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3658.5, 769.0, 269.0, 19.0 ],
-					"text" : "3_Speech_ExtractB_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 3658.5, 769.0, 151.0, 19.0 ],
+					"text" : "3_Speech_ExtractB-lowAnchor.wav"
 				}
 
 			}
@@ -3981,8 +3981,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3371.0, 769.0, 269.0, 19.0 ],
-					"text" : "2_Speech_ExtractA_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 3371.0, 769.0, 151.0, 19.0 ],
+					"text" : "2_Speech_ExtractA-lowAnchor.wav"
 				}
 
 			}
@@ -4079,8 +4079,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 3067.0, 769.0, 251.0, 19.0 ],
-					"text" : "1_VirtualStereo_7OA_sadie2_ku100_MagLS-lowAnchor.wav"
+					"patching_rect" : [ 3067.0, 769.0, 133.0, 19.0 ],
+					"text" : "1_VirtualStereo-lowAnchor.wav"
 				}
 
 			}
@@ -6070,7 +6070,7 @@
 					"patching_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 1083.0, 672.0, 218.0, 50.0 ],
-					"text" : "Page 2 of 8",
+					"text" : "Page 1 of 8",
 					"varname" : "PageDisplay"
 				}
 
